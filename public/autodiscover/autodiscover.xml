@@ -1,0 +1,14 @@
+<Autodiscover>
+  <Response>
+    <Culture>en:us</Culture>
+    <Action>
+      <Settings>
+        <Server>
+          <Type>MobileSync</Type>
+          <Url>https://mail.crazygoodapps.net</Url>
+          <Name>https://mail.crazygoodapps.net</Name>
+        </Server>
+      </Settings>
+    </Action>
+  </Response>
+</Autodiscover>
